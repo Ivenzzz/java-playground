@@ -1,3 +1,4 @@
+package data_structures;
 public class ArrayDemo {
     public static void main(String[] args) {
         // Bigger array so we can insert later

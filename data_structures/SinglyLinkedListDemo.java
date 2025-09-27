@@ -1,3 +1,4 @@
+package data_structures;
 public class SinglyLinkedListDemo {
     public static void main(String[] args) {
         SinglyLinkedList list = new SinglyLinkedList();
